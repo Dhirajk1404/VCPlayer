@@ -1,0 +1,13 @@
+com/example/vcmplayer/BuildConfig.java
+ com.example.vcmplayer.BuildConfig
+com/example/vcmplayer/MainActivity.java
+ com.example.vcmplayer.MainActivity
+ com.example.vcmplayer.MainActivity$1
+com/example/vcmplayer/SmartPlayerActivity.java
+ com.example.vcmplayer.SmartPlayerActivity
+ com.example.vcmplayer.SmartPlayerActivity$1
+ com.example.vcmplayer.SmartPlayerActivity$2
+ com.example.vcmplayer.SmartPlayerActivity$3
+ com.example.vcmplayer.SmartPlayerActivity$4
+ com.example.vcmplayer.SmartPlayerActivity$5
+ com.example.vcmplayer.SmartPlayerActivity$6
